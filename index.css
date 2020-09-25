@@ -1,0 +1,156 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-image: url(l8.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time roman;
+}
+
+h3{ 
+
+    font-size: 25px;
+    border-radius: 1px;
+    margin-top: 30px;
+    border-bottom: 1px solid white;
+    height: 50px;
+    color: white;
+    }
+h5{
+    font-size:14px;
+    color:white;
+    margin-left: 890px;
+}
+h6{
+    font-size:14px;
+    color:white;
+    margin-left: 760px;
+}
+h1{
+    font-size:14px;
+    color:white;
+    margin-left: 630px;
+}
+h2{
+    font-size:14px;
+    color:white;
+    margin-left: 500px;
+}
+.glyphicon-home{
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left:890px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 20px;
+    border:1px solid lightblue;
+    padding:14px;
+
+    transition: 55ms;
+}
+.glyphicon-home:hover{
+     background: transparent;
+     color: white;
+}
+.glyphicon-earphone{
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left:760px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 20px;
+    border:1px solid lightblue;
+    padding:14px;
+    transition: 55ms;
+}
+.glyphicon-earphone:hover{
+     background: transparent;
+     color: white;
+}
+.glyphicon-envelope{
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left:630px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 20px;
+    border:1px solid lightblue;
+    padding:14px;
+    transition: 55ms;
+}
+.glyphicon-envelope:hover{
+     background: transparent;
+     color: white;
+}
+.glyphicon-user{
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left:500px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 20px;
+    border:1px solid lightblue;
+    padding:14px;
+    transition: 55ms;
+}
+.glyphicon-user:hover{
+     background: transparent;
+     color: white;
+}
+.form-control{
+    background: rgb(255,255,255,0.2);
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 40px;
+    border: 0px;
+    border-left: 1px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    height: 40px;
+    color: black;
+    
+
+}
+small{
+    font-size: 19px;
+    color: white;
+}
+input[type="radio"]{
+    margin-top: 95px;
+    margin-left: 0px; 
+    
+}
+
+.btn-warning{
+    float: right;
+    margin-top: 20px;
+    width: 180px;
+    font-size: 19px;
+    border-radius: 0px;
+    background: transparent;
+    border: 1px solid lightgreen;  
+
+}
+.btn-info{
+    margin-top: 16px;
+    font-size: 20px;
+    border-radius: 100px;
+    background: rgba(255,255,255,0.2);
+    border: 2px solid lightgreen;
+     
+}
+option{
+  color: black;
+}
+.label{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.btn-info{
+    margin-top: 30px;
+    font-size: 20px;
+    width: 120px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
